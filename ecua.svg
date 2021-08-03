@@ -1,0 +1,12 @@
+<svg width="147" height="50" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="svg_3_blur">
+   <feGaussianBlur stdDeviation="0.2" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <text stroke-width="2" filter="url(#svg_3_blur)" opacity="0.85" font-style="normal" font-weight="normal" transform="matrix(0.8214 0 0 1.07411 -68.8606 -217.538)" stroke="#7f0000" xml:space="preserve" text-anchor="start" font-family="'Calistoga'" font-size="26" id="svg_3" y="235.05503" x="87.05927" fill="#c90e0e">Ecua</text>
+  <text xml:space="preserve" text-anchor="start" font-family="'Calistoga'" font-size="26" id="svg_5" y="35" x="58.5" stroke-width="2" stroke="#0000bf" fill="#0000ff">Celebs</text>
+ </g>
+</svg>
